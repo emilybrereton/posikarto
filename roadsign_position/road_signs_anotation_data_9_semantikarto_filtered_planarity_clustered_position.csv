@@ -1,0 +1,729 @@
+Filename,ClusterLabel,ClusterCenter,ClusterAverage
+road_signs_anotation_data_10_semantikarto_filtered_planarity_clustered.laz,0,"x    35.880823
+y    -0.586721
+z     4.877513
+dtype: float64","x    35.844299
+y    -0.607657
+z     4.329882
+dtype: float64"
+road_signs_anotation_data_11_semantikarto_filtered_planarity_clustered.laz,0,"x    39.717546
+y     0.003797
+z     2.571396
+dtype: float64","x    39.696115
+y    -0.015251
+z     2.672481
+dtype: float64"
+road_signs_anotation_data_12_semantikarto_filtered_planarity_clustered.laz,0,"x    44.383393
+y     0.282555
+z     3.119347
+dtype: float64","x    43.949038
+y     0.324653
+z     2.881900
+dtype: float64"
+road_signs_anotation_data_12_semantikarto_filtered_planarity_clustered.laz,1,"x    44.383393
+y     0.282555
+z     3.119347
+dtype: float64","x    43.949038
+y     0.324653
+z     2.881900
+dtype: float64"
+road_signs_anotation_data_12_semantikarto_filtered_planarity_clustered.laz,2,"x    44.383393
+y     0.282555
+z     3.119347
+dtype: float64","x    43.949038
+y     0.324653
+z     2.881900
+dtype: float64"
+road_signs_anotation_data_13_semantikarto_filtered_planarity_clustered.laz,0,"x    47.903372
+y    -0.022411
+z     4.258502
+dtype: float64","x    47.870649
+y    -0.005648
+z     4.707721
+dtype: float64"
+road_signs_anotation_data_14_semantikarto_filtered_planarity_clustered.laz,0,"x    51.487946
+y     0.856199
+z     3.172580
+dtype: float64","x    51.387245
+y     0.880913
+z     3.113939
+dtype: float64"
+road_signs_anotation_data_15_semantikarto_filtered_planarity_clustered.laz,0,"x    56.012262
+y     0.447573
+z     3.125718
+dtype: float64","x    56.027161
+y     0.461397
+z     3.106000
+dtype: float64"
+road_signs_anotation_data_16_semantikarto_filtered_planarity_clustered.laz,0,"x    59.919112
+y     0.482532
+z     1.976079
+dtype: float64","x    59.907930
+y     0.484602
+z     2.003126
+dtype: float64"
+road_signs_anotation_data_17_semantikarto_filtered_planarity_clustered.laz,0,"x    64.041079
+y     0.585555
+z     2.685335
+dtype: float64","x    64.109859
+y     0.358897
+z     2.661705
+dtype: float64"
+road_signs_anotation_data_17_semantikarto_filtered_planarity_clustered.laz,1,"x    64.041079
+y     0.585555
+z     2.685335
+dtype: float64","x    64.109859
+y     0.358897
+z     2.661705
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,0,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,1,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,2,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,3,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,4,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_18_semantikarto_filtered_planarity_clustered.laz,5,"x    68.587248
+y    -0.808191
+z     4.001520
+dtype: float64","x    68.707256
+y    -0.965909
+z     3.739802
+dtype: float64"
+road_signs_anotation_data_19_semantikarto_filtered_planarity_clustered.laz,0,"x    71.986212
+y    -0.090104
+z     2.747762
+dtype: float64","x    71.958785
+y    -0.100821
+z     2.834128
+dtype: float64"
+road_signs_anotation_data_19_semantikarto_filtered_planarity_clustered.laz,1,"x    71.986212
+y    -0.090104
+z     2.747762
+dtype: float64","x    71.958785
+y    -0.100821
+z     2.834128
+dtype: float64"
+road_signs_anotation_data_19_semantikarto_filtered_planarity_clustered.laz,2,"x    71.986212
+y    -0.090104
+z     2.747762
+dtype: float64","x    71.958785
+y    -0.100821
+z     2.834128
+dtype: float64"
+road_signs_anotation_data_19_semantikarto_filtered_planarity_clustered.laz,3,"x    71.986212
+y    -0.090104
+z     2.747762
+dtype: float64","x    71.958785
+y    -0.100821
+z     2.834128
+dtype: float64"
+road_signs_anotation_data_1_semantikarto_filtered_planarity_clustered.laz,0,"x    0.220663
+y    0.148811
+z    5.019272
+dtype: float64","x    0.198463
+y    0.142655
+z    4.824058
+dtype: float64"
+road_signs_anotation_data_1_semantikarto_filtered_planarity_clustered.laz,1,"x    0.220663
+y    0.148811
+z    5.019272
+dtype: float64","x    0.198463
+y    0.142655
+z    4.824058
+dtype: float64"
+road_signs_anotation_data_1_semantikarto_filtered_planarity_clustered.laz,2,"x    0.220663
+y    0.148811
+z    5.019272
+dtype: float64","x    0.198463
+y    0.142655
+z    4.824058
+dtype: float64"
+road_signs_anotation_data_1_semantikarto_filtered_planarity_clustered.laz,3,"x    0.220663
+y    0.148811
+z    5.019272
+dtype: float64","x    0.198463
+y    0.142655
+z    4.824058
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,0,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,1,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,2,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,3,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,4,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_20_semantikarto_filtered_planarity_clustered.laz,5,"x    76.545435
+y    -0.003028
+z     2.809638
+dtype: float64","x    76.637828
+y     0.097212
+z     2.701812
+dtype: float64"
+road_signs_anotation_data_22_semantikarto_filtered_planarity_clustered.laz,0,"x    84.129354
+y     0.147591
+z     3.020608
+dtype: float64","x    84.140854
+y     0.144114
+z     3.058307
+dtype: float64"
+road_signs_anotation_data_22_semantikarto_filtered_planarity_clustered.laz,1,"x    84.129354
+y     0.147591
+z     3.020608
+dtype: float64","x    84.140854
+y     0.144114
+z     3.058307
+dtype: float64"
+road_signs_anotation_data_23_semantikarto_filtered_planarity_clustered.laz,0,"x    87.815082
+y    -0.374227
+z     2.573328
+dtype: float64","x    87.828082
+y    -0.397913
+z     2.547848
+dtype: float64"
+road_signs_anotation_data_23_semantikarto_filtered_planarity_clustered.laz,1,"x    87.815082
+y    -0.374227
+z     2.573328
+dtype: float64","x    87.828082
+y    -0.397913
+z     2.547848
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,0,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,1,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,2,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,3,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,4,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,5,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_24_semantikarto_filtered_planarity_clustered.laz,6,"x    92.036740
+y     0.040466
+z     9.106202
+dtype: float64","x    92.159514
+y     0.001242
+z     8.921783
+dtype: float64"
+road_signs_anotation_data_25_semantikarto_filtered_planarity_clustered.laz,0,"x    95.939284
+y    -0.201253
+z     4.888074
+dtype: float64","x    95.948425
+y    -0.187000
+z     4.798595
+dtype: float64"
+road_signs_anotation_data_26_semantikarto_filtered_planarity_clustered.laz,0,"x    100.013355
+y      0.364118
+z      2.501301
+dtype: float64","x    100.173190
+y      0.469907
+z      2.576686
+dtype: float64"
+road_signs_anotation_data_26_semantikarto_filtered_planarity_clustered.laz,1,"x    100.013355
+y      0.364118
+z      2.501301
+dtype: float64","x    100.173190
+y      0.469907
+z      2.576686
+dtype: float64"
+road_signs_anotation_data_27_semantikarto_filtered_planarity_clustered.laz,0,"x    104.253628
+y      0.278775
+z      2.707917
+dtype: float64","x    104.251492
+y      0.275863
+z      2.722139
+dtype: float64"
+road_signs_anotation_data_28_semantikarto_filtered_planarity_clustered.laz,0,"x    108.127884
+y      0.270278
+z      2.932595
+dtype: float64","x    108.123034
+y      0.277108
+z      2.928001
+dtype: float64"
+road_signs_anotation_data_29_semantikarto_filtered_planarity_clustered.laz,0,"x    111.862154
+y     -0.035394
+z      4.230746
+dtype: float64","x    111.829337
+y     -0.007807
+z      4.697545
+dtype: float64"
+road_signs_anotation_data_2_semantikarto_filtered_planarity_clustered.laz,0,"x    3.722685
+y   -0.298879
+z    5.151609
+dtype: float64","x    3.777058
+y   -0.269905
+z    5.324935
+dtype: float64"
+road_signs_anotation_data_30_semantikarto_filtered_planarity_clustered.laz,0,"x    116.181904
+y      0.123786
+z      2.536543
+dtype: float64","x    116.175906
+y      0.105922
+z      2.552000
+dtype: float64"
+road_signs_anotation_data_31_semantikarto_filtered_planarity_clustered.laz,0,"x    119.935972
+y      0.300491
+z      2.638079
+dtype: float64","x    119.920921
+y      0.300466
+z      2.629057
+dtype: float64"
+road_signs_anotation_data_32_semantikarto_filtered_planarity_clustered.laz,0,"x    124.252739
+y      0.023458
+z      2.644801
+dtype: float64","x    124.241385
+y     -0.059365
+z      2.652000
+dtype: float64"
+road_signs_anotation_data_33_semantikarto_filtered_planarity_clustered.laz,0,"x    128.536865
+y      0.337759
+z      3.482978
+dtype: float64","x    128.602506
+y      0.475785
+z      3.341995
+dtype: float64"
+road_signs_anotation_data_34_semantikarto_filtered_planarity_clustered.laz,0,"x    131.914293
+y     -0.160701
+z      2.582041
+dtype: float64","x    131.888718
+y     -0.155564
+z      2.646667
+dtype: float64"
+road_signs_anotation_data_34_semantikarto_filtered_planarity_clustered.laz,1,"x    131.914293
+y     -0.160701
+z      2.582041
+dtype: float64","x    131.888718
+y     -0.155564
+z      2.646667
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,0,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,1,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,2,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,3,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,4,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,5,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,6,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,7,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_35_semantikarto_filtered_planarity_clustered.laz,8,"x    136.110436
+y      0.003322
+z      4.105128
+dtype: float64","x    136.038738
+y      0.077562
+z      3.723295
+dtype: float64"
+road_signs_anotation_data_36_semantikarto_filtered_planarity_clustered.laz,0,"x    141.012046
+y      0.775158
+z      1.595968
+dtype: float64","x    141.011015
+y      0.771836
+z      1.596000
+dtype: float64"
+road_signs_anotation_data_37_semantikarto_filtered_planarity_clustered.laz,0,"x    144.725664
+y      1.039292
+z      2.514271
+dtype: float64","x    144.726374
+y      1.031035
+z      2.539000
+dtype: float64"
+road_signs_anotation_data_38_semantikarto_filtered_planarity_clustered.laz,0,"x    146.965025
+y     -0.335941
+z      2.491402
+dtype: float64","x    146.921827
+y     -0.502743
+z      2.339845
+dtype: float64"
+road_signs_anotation_data_39_semantikarto_filtered_planarity_clustered.laz,0,"x    152.223024
+y     -0.215003
+z      2.793795
+dtype: float64","x    152.189802
+y     -0.215171
+z      2.812955
+dtype: float64"
+road_signs_anotation_data_3_semantikarto_filtered_planarity_clustered.laz,0,"x    8.154371
+y    0.114198
+z    2.759902
+dtype: float64","x    8.124058
+y    0.125005
+z    2.771058
+dtype: float64"
+road_signs_anotation_data_40_semantikarto_filtered_planarity_clustered.laz,0,"x    156.159165
+y     -0.550171
+z      4.279755
+dtype: float64","x    156.074612
+y     -0.543149
+z      3.992733
+dtype: float64"
+road_signs_anotation_data_41_semantikarto_filtered_planarity_clustered.laz,0,"x    159.979342
+y     -0.052073
+z      4.181703
+dtype: float64","x    160.014147
+y     -0.062474
+z      4.113761
+dtype: float64"
+road_signs_anotation_data_41_semantikarto_filtered_planarity_clustered.laz,1,"x    159.979342
+y     -0.052073
+z      4.181703
+dtype: float64","x    160.014147
+y     -0.062474
+z      4.113761
+dtype: float64"
+road_signs_anotation_data_42_semantikarto_filtered_planarity_clustered.laz,0,"x    164.434692
+y      0.607133
+z      3.030069
+dtype: float64","x    164.439735
+y      0.600701
+z      3.019570
+dtype: float64"
+road_signs_anotation_data_43_semantikarto_filtered_planarity_clustered.laz,0,"x    167.829845
+y      0.170970
+z      2.706507
+dtype: float64","x    167.871151
+y      0.175304
+z      2.754000
+dtype: float64"
+road_signs_anotation_data_44_semantikarto_filtered_planarity_clustered.laz,0,"x    171.282123
+y     -0.187212
+z      6.213006
+dtype: float64","x    171.371212
+y      0.030486
+z      6.816737
+dtype: float64"
+road_signs_anotation_data_44_semantikarto_filtered_planarity_clustered.laz,1,"x    171.282123
+y     -0.187212
+z      6.213006
+dtype: float64","x    171.371212
+y      0.030486
+z      6.816737
+dtype: float64"
+road_signs_anotation_data_44_semantikarto_filtered_planarity_clustered.laz,2,"x    171.282123
+y     -0.187212
+z      6.213006
+dtype: float64","x    171.371212
+y      0.030486
+z      6.816737
+dtype: float64"
+road_signs_anotation_data_44_semantikarto_filtered_planarity_clustered.laz,3,"x    171.282123
+y     -0.187212
+z      6.213006
+dtype: float64","x    171.371212
+y      0.030486
+z      6.816737
+dtype: float64"
+road_signs_anotation_data_44_semantikarto_filtered_planarity_clustered.laz,4,"x    171.282123
+y     -0.187212
+z      6.213006
+dtype: float64","x    171.371212
+y      0.030486
+z      6.816737
+dtype: float64"
+road_signs_anotation_data_45_semantikarto_filtered_planarity_clustered.laz,0,"x    176.214867
+y     -0.424960
+z      2.815060
+dtype: float64","x    176.219627
+y     -0.434183
+z      2.820830
+dtype: float64"
+road_signs_anotation_data_46_semantikarto_filtered_planarity_clustered.laz,0,"x    179.732728
+y      0.180306
+z      2.379431
+dtype: float64","x    179.788235
+y      0.098283
+z      2.083000
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,0,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,1,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,2,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,3,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,4,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_47_semantikarto_filtered_planarity_clustered.laz,5,"x    184.153724
+y      0.048360
+z      9.131059
+dtype: float64","x    184.198681
+y      0.099285
+z      9.595793
+dtype: float64"
+road_signs_anotation_data_48_semantikarto_filtered_planarity_clustered.laz,0,"x    188.451469
+y      0.635324
+z      5.474131
+dtype: float64","x    188.469006
+y      0.634425
+z      4.928900
+dtype: float64"
+road_signs_anotation_data_49_semantikarto_filtered_planarity_clustered.laz,0,"x    192.186429
+y      0.128837
+z      4.985116
+dtype: float64","x    192.210552
+y      0.086561
+z      4.794573
+dtype: float64"
+road_signs_anotation_data_49_semantikarto_filtered_planarity_clustered.laz,1,"x    192.186429
+y      0.128837
+z      4.985116
+dtype: float64","x    192.210552
+y      0.086561
+z      4.794573
+dtype: float64"
+road_signs_anotation_data_4_semantikarto_filtered_planarity_clustered.laz,0,"x    11.692037
+y    -0.040259
+z     2.229751
+dtype: float64","x    11.693646
+y    -0.018457
+z     2.303184
+dtype: float64"
+road_signs_anotation_data_50_semantikarto_filtered_planarity_clustered.laz,0,"x    195.822182
+y      0.275372
+z      2.614415
+dtype: float64","x    195.842899
+y      0.276298
+z      2.621769
+dtype: float64"
+road_signs_anotation_data_50_semantikarto_filtered_planarity_clustered.laz,1,"x    195.822182
+y      0.275372
+z      2.614415
+dtype: float64","x    195.842899
+y      0.276298
+z      2.621769
+dtype: float64"
+road_signs_anotation_data_5_semantikarto_filtered_planarity_clustered.laz,0,"x    16.123423
+y    -0.185307
+z     3.076201
+dtype: float64","x    16.126102
+y    -0.188301
+z     3.085078
+dtype: float64"
+road_signs_anotation_data_6_semantikarto_filtered_planarity_clustered.laz,0,"x    20.633265
+y     0.061953
+z     3.535013
+dtype: float64","x    20.597412
+y    -0.053089
+z     3.765505
+dtype: float64"
+road_signs_anotation_data_6_semantikarto_filtered_planarity_clustered.laz,1,"x    20.633265
+y     0.061953
+z     3.535013
+dtype: float64","x    20.597412
+y    -0.053089
+z     3.765505
+dtype: float64"
+road_signs_anotation_data_6_semantikarto_filtered_planarity_clustered.laz,2,"x    20.633265
+y     0.061953
+z     3.535013
+dtype: float64","x    20.597412
+y    -0.053089
+z     3.765505
+dtype: float64"
+road_signs_anotation_data_6_semantikarto_filtered_planarity_clustered.laz,3,"x    20.633265
+y     0.061953
+z     3.535013
+dtype: float64","x    20.597412
+y    -0.053089
+z     3.765505
+dtype: float64"
+road_signs_anotation_data_7_semantikarto_filtered_planarity_clustered.laz,0,"x    23.948526
+y     0.047928
+z     5.144609
+dtype: float64","x    23.837483
+y     0.038084
+z     5.050000
+dtype: float64"
+road_signs_anotation_data_7_semantikarto_filtered_planarity_clustered.laz,1,"x    23.948526
+y     0.047928
+z     5.144609
+dtype: float64","x    23.837483
+y     0.038084
+z     5.050000
+dtype: float64"
+road_signs_anotation_data_7_semantikarto_filtered_planarity_clustered.laz,2,"x    23.948526
+y     0.047928
+z     5.144609
+dtype: float64","x    23.837483
+y     0.038084
+z     5.050000
+dtype: float64"
+road_signs_anotation_data_8_semantikarto_filtered_planarity_clustered.laz,0,"x    27.911831
+y    -0.638592
+z     3.853605
+dtype: float64","x    27.756569
+y    -0.693275
+z     3.755113
+dtype: float64"
+road_signs_anotation_data_9_semantikarto_filtered_planarity_clustered.laz,0,"x    31.912656
+y     0.088088
+z     4.008400
+dtype: float64","x    31.913590
+y     0.085561
+z     3.659500
+dtype: float64"
+road_signs_anotation_data_9_semantikarto_filtered_planarity_clustered.laz,1,"x    31.912656
+y     0.088088
+z     4.008400
+dtype: float64","x    31.913590
+y     0.085561
+z     3.659500
+dtype: float64"
