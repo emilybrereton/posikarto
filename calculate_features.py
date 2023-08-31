@@ -16,23 +16,8 @@ def calculate_jakteristic_features(jak_input_folder, features_output, feature_na
             xyz = las_utils.read_las_xyz(input_path)
 
             # Compute features using Jakteristics
-            features = compute_features(xyz, search_radius=0.15, feature_names=["planarity"])
-
+            features = compute_features(xyz, search_radius=0.15, feature_names=FEATURE_NAMES)
+            print("features", features)
             # Write features as extra dimensions to the output file
-            las_utils.write_with_extra_dims(input_path, output_path, features, feature_names)
+            las_utils.write_with_extra_dims(input_path, output_path, features, FEATURE_NAMES)
 
-
-# from jakteristics import las_utils, compute_features, FEATURE_NAMES
-
-# input_path = "C:\\Users\\ebrereton\\posikarto\\posikarto\\clustered\\road_signs_anotation_data_1_semantikarto_filtered_clustered.laz"
-# xyz = las_utils.read_las_xyz(input_path)
-
-# features = compute_features(xyz, search_radius=0.15, feature_names=FEATURE_NAMES)
-
-# output_path = "C:\\Users\\ebrereton\\posikarto\\posikarto\\jakteristics\\testtest.las"
-# las_utils.write_with_extra_dims(input_path, output_path, features, FEATURE_NAMES)
-
-# # or for a specific feature:
-# omnivariance = compute_features(xyz, search_radius=0.15, feature_names=["omnivariance"])
-# output_omnivariance = "C:\\Users\\ebrereton\\posikarto\\posikarto\\jakteristics\\output_omnivariance.las"
-# las_utils.write_with_extra_dims(input_path, output_omnivariance, omnivariance, ["omnivariance"])

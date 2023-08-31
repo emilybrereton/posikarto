@@ -4,7 +4,6 @@ import pandas as pd
 
 def load_point_cloud_data(input_folder):
     point_cloud_data = []
-    road_sign_data = [] # empty list to store filtered roadsign df
     print("loading and filtering")
 
     for filename in os.listdir(input_folder):
@@ -12,10 +11,9 @@ def load_point_cloud_data(input_folder):
             file_path = os.path.join(input_folder, filename)
             df = jaklas.read_pandas(file_path)
             point_cloud_data.append(df)
-
-            # Save DataFrame to a text file
-            output_folder = "/Users/emilybrereton/posikarto/filtered"
             
+            output_folder = "C:\\Users\\ebrereton\\posikarto\\posikarto\\filtered"
+
             # Retain roadsign (Class: 1); Remove all other classes from df
             # Filter rows with label_semantikarto equal to 1
             road_sign_df = df[df['label_semantikarto'] == 1].copy()
