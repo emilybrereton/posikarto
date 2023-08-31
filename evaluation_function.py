@@ -31,17 +31,11 @@ def calculate_average_coordinates(df):
 def evaluate_positions(ground_truth_df, estimated_positions_df):
     diff_df = estimated_positions_df.copy()
     gt_df = ground_truth_df.reset_index(drop=True)
-    # diff_df = ground_truth_df.copy()
-    # estimated_positions_df = estimated_positions_df[['center_x', 'center_y', 'center_z']]
-    # print(diff_df, gt_df)
     x_diff = estimated_positions_df['center_x'] - gt_df['x']
     y_diff = estimated_positions_df['center_y'] - gt_df['y']
     z_diff = estimated_positions_df['center_z'] - gt_df['z']
     diff_df = [x_diff, y_diff, z_diff]
-    # diff_df[['center_x', 'center_y', 'center_z']] = ground_truth_df[['x', 'y', 'z']] - estimated_positions_df[['center_x', 'center_y', 'center_z']]
-    # diff_df[['center_x', 'center_y', 'center_z']] = estimated_positions_df[['center_x', 'center_y', 'center_z']] - ground_truth_df[['x', 'y', 'z']]
-    # diff_df[['center_x', 'center_y', 'center_z']] -= gt_df[['x', 'y', 'z']] 
-    # print("difference: ", diff_df)
+    
     return diff_df
 
 def main(las_file_path, estimated_position_file_path):
