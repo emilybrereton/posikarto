@@ -2,6 +2,7 @@ import os
 from jakteristics import las_utils, compute_features, FEATURE_NAMES
 
 def calculate_jakteristic_features(jak_input_folder, features_output, feature_names, search_radius=0.15):
+    print("computing geometric features")
     # Create the output folder if it doesn't exist
     if not os.path.exists(features_output):
         os.makedirs(features_output)

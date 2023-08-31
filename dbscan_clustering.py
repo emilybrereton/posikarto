@@ -8,31 +8,30 @@ from calculate_features import calculate_jakteristic_features
 from jakteristics import las_utils, compute_features, FEATURE_NAMES
 
 
-
 # method - planarity
 # read jakteristics files
 # remove points which >= 0.1 planarity values
 def get_planarity(features_output, planarity_output):
-    print("get_planarity")
+    print("filtering for planarity")
     for filename in os.listdir(features_output):
         planarity_input_path = os.path.join(features_output, filename)
         df = jaklas.read_pandas(planarity_input_path)
         planarity = df[df['planarity'] >= 0.1].copy()
 
-        output_filename = os.path.splitext(filename)[0] + '_planarity.laz'
+        output_filename = os.path.splitext(filename)[0] + '.laz'
         
         output_path = os.path.join(planarity_output, output_filename)
         jaklas.write(planarity, output_path)
 
 def perform_dbscan_clustering(filtered_folder, clustered_folder, eps, min_samples, feature_columns):
-    print("clustering")
+    print("performing dbscan clustering")
     plot_folder = "C:\\Users\\ebrereton\\posikarto\\posikarto\\plots"
 
     for filename in os.listdir(filtered_folder):
         if filename.lower().endswith('.laz') or filename.lower().endswith('.las'):
             dbscan_input_path = os.path.join(filtered_folder, filename)
-            dbscan_output_csv_path = os.path.join(plot_folder, filename.replace('.laz', '_clustered.csv'))
-            dbscan_output_laz_path = os.path.join(clustered_folder, filename.replace('.laz', '_clustered.laz'))
+            dbscan_output_csv_path = os.path.join(plot_folder, filename.replace('.laz', '.csv'))
+            dbscan_output_laz_path = os.path.join(clustered_folder, filename.replace('.laz', '.laz'))
 
             # Read the data from a file into a DataFrame
             df = jaklas.read_pandas(dbscan_input_path)

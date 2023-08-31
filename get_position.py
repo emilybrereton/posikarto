@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 def get_position(plots_folder, roadsign_position):
+    print("estimating position of roadsigns")
     center_points = []
 
     for filename in os.listdir(plots_folder):
