@@ -23,11 +23,17 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The Semantikarto model has previously classified road signs in the point clouds using the RandLA-Net architecture.
 - Filtering is performed to extract road sign points by retaining points labeled as road signs and removing all other classes.
 
-![filtered_1.png](doc/filtered_1.png)
+<p float="left">
+  <img src="doc/filtered_1.png" width="200" />
+  <img src="doc/filtered_2.png" width="200" /> 
+  <img src="doc/filtered_3.png" width="200" />
+</p>
+
+<!-- ![filtered_1.png](doc/filtered_1.png)
 
 ![filtered_2.png](doc/filtered_2.png)
 
-![filtered_3.png](doc/filtered_1.png)
+![filtered_3.png](doc/filtered_1.png) -->
 
 ### 2. Calculating Geometric Features with Jakteristics
 
