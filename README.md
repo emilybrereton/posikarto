@@ -23,11 +23,11 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The Semantikarto model has previously classified road signs in the point clouds using the RandLA-Net architecture.
 - Filtering is performed to extract road sign points by retaining points labeled as road signs and removing all other classes.
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%201.png)
+![filtered_1.png](doc/filtered_1.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%202.png)
+![filtered_2.png](doc/filtered_2.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%203.png)
+![filtered_3.png](doc/filtered_1.png)
 
 ### 2. Calculating Geometric Features with Jakteristics
 
@@ -35,11 +35,11 @@ This project focuses on detecting and localizing road signs within point clouds 
 - Features like planarity, omnivariance, and others are computed to describe the geometric characteristics of the points.
 - A planarity threshold is set, and points below this threshold are removed to ensure high planarity.
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%204.png)
+![jak_1.png](doc/jak_1.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%205.png)
+![jak_2.png](doc/jak_2.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%206.png)
+![jak_3.png](doc/jak_3.png)
 
 ### 3. DBSCAN Clustering
 
@@ -47,11 +47,11 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The feature columns are standardized, and DBSCAN clusters the points into groups based on their spatial density.
 - The cluster with the highest average planarity value is selected as it is likely to correspond to a road sign.
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%207.png)
+![clustered_1.png](doc/clustered_1.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%208.png)
+![clustered_2.png](doc/clustered_2.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%209.png)
+![clustered_3.png](doc/clustered_3.png)
 
 ### 4. Estimating Road Sign Positions
 
@@ -59,7 +59,7 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The estimated center points represent the positions of the detected road signs.
 - These center points are collected and saved in a CSV file for further analysis.
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%2010.png)
+![estimated_position.png](doc/estimated_position.png) 
 
 ### Workflow
 
