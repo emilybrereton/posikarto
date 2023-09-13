@@ -18,45 +18,6 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The Semantikarto model has previously classified road signs in the point clouds using the RandLA-Net architecture.
 - Filtering is performed to extract road sign points by retaining points labeled as road signs and removing all other classes.
 
-<!-- <p float="left">
-  <img src="doc/filtered_1.png" width="200" />
-  <img src="doc/filtered_2.png" width="200" /> 
-  <img src="doc/filtered_3.png" width="200" />
-</p> -->
-
-<div align="center">
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/filtered_1.png" width="200" />
-    <p>Roadsign 1</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/filtered_2.png" width="200" />
-    <p>Roadsign 2</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/filtered_3.png" width="200" />
-    <p>Roadsign 3</p>
-  </div>
-</div>
-
-<!-- ![filtered_1.png](doc/filtered_1.png)
-
-![filtered_2.png](doc/filtered_2.png)
-
-![filtered_3.png](doc/filtered_1.png) -->
-
-### 2. Calculating Geometric Features with Jakteristics
-
-- Geometric features are calculated on the extracted road sign point clouds using the Jakteristics library.
-- Features like planarity, omnivariance, and others are computed to describe the geometric characteristics of the points.
-- A planarity threshold is set, and points below this threshold are removed to ensure high planarity.
-
-<!-- <p float="left">
-  <img src="doc/jak_1.png" width="200" />
-  <img src="doc/jak_2.png" width="200" /> 
-  <img src="doc/jak_3.png" width="200" />
-</p> -->
-
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="doc/filtered_1.png" width="200" alt="Roadsign 1" style="margin: 10px;" />
@@ -65,11 +26,22 @@ This project focuses on detecting and localizing road signs within point clouds 
   </div>
 </div>
 
-<!-- ![jak_1.png](doc/jak_1.png)
+### 2. Calculating Geometric Features with Jakteristics
 
-![jak_2.png](doc/jak_2.png)
+- Geometric features are calculated on the extracted road sign point clouds using the Jakteristics library.
+- Features like planarity, omnivariance, and others are computed to describe the geometric characteristics of the points.
+- A planarity threshold is set, and points below this threshold are removed to ensure high planarity.
 
-![jak_3.png](doc/jak_3.png) -->
+
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="doc/jak_1.png" width="200" alt="Roadsign 1" style="margin: 10px;" />
+    <img src="doc/jak_2.png" width="200" alt="Roadsign 2" style="margin: 10px;" />
+    <img src="doc/jak_3.png" width="200" alt="Roadsign 3" style="margin: 10px;" />
+  </div>
+</div>
+
 
 ### 3. DBSCAN Clustering
 
@@ -77,33 +49,13 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The feature columns are standardized, and DBSCAN clusters the points into groups based on their spatial density.
 - The cluster with the highest average planarity value is selected as it is likely to correspond to a road sign.
 
-<!-- <p float="left">
-  <img src="doc/clustered_1.png" width="200" />
-  <img src="doc/clustered_2.png" width="200" /> 
-  <img src="doc/clustered_3.png" width="200" />
-</p> -->
-
 <div align="center">
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/clustered_1.png" width="200" />
-    <p>Roadsign 1</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/clustered_1.png" width="200" />
-    <p>Roadsign 2</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/clustered_1.png" width="200" />
-    <p>Roadsign 3</p>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="doc/clustered_1.png" width="200" alt="Roadsign 1" style="margin: 10px;" />
+    <img src="doc/clustered_2.png" width="200" alt="Roadsign 2" style="margin: 10px;" />
+    <img src="doc/clustered_3.png" width="200" alt="Roadsign 3" style="margin: 10px;" />
   </div>
 </div>
-
-
-<!-- ![clustered_1.png](doc/clustered_1.png)
-
-![clustered_2.png](doc/clustered_2.png)
-
-![clustered_3.png](doc/clustered_3.png) -->
 
 ### 4. Estimating Road Sign Positions
 
