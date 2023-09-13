@@ -92,9 +92,10 @@ This evaluation function requires users to select a ground truth and enter its c
 (posikarto) PS C:\Users\ebrereton\posikarto\posikarto> python .\csv_evaluation.py C:\Users\ebrereton\posikarto\posikarto\roadsign_position\roadsign_1_groundtruth_center_points.csv C:\Users\ebrereton\posikarto\posikarto\roadsign_position\roadsign_1_estimated_center_points.csv
 ```
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%2011.png)
+![gt_pictured.png](doc/gt_pictured.png)
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled%2012.png)
+![eval.png](doc/eval.png)
+
 
 ************************Using evaluation_function.py************************
 
