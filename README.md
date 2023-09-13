@@ -41,11 +41,17 @@ This project focuses on detecting and localizing road signs within point clouds 
 - Features like planarity, omnivariance, and others are computed to describe the geometric characteristics of the points.
 - A planarity threshold is set, and points below this threshold are removed to ensure high planarity.
 
-![jak_1.png](doc/jak_1.png)
+<p float="left">
+  <img src="doc/jak_1.png" width="200" />
+  <img src="doc/jak_2.png" width="200" /> 
+  <img src="doc/jak_3.png" width="200" />
+</p>
+
+<!-- ![jak_1.png](doc/jak_1.png)
 
 ![jak_2.png](doc/jak_2.png)
 
-![jak_3.png](doc/jak_3.png)
+![jak_3.png](doc/jak_3.png) -->
 
 ### 3. DBSCAN Clustering
 
@@ -53,11 +59,17 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The feature columns are standardized, and DBSCAN clusters the points into groups based on their spatial density.
 - The cluster with the highest average planarity value is selected as it is likely to correspond to a road sign.
 
-![clustered_1.png](doc/clustered_1.png)
+<p float="left">
+  <img src="doc/clustered_1.png" width="200" />
+  <img src="doc/clustered_2.png" width="200" /> 
+  <img src="doc/clustered_3.png" width="200" />
+</p>
+
+<!-- ![clustered_1.png](doc/clustered_1.png)
 
 ![clustered_2.png](doc/clustered_2.png)
 
-![clustered_3.png](doc/clustered_3.png)
+![clustered_3.png](doc/clustered_3.png) -->
 
 ### 4. Estimating Road Sign Positions
 
