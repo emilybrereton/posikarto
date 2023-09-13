@@ -13,7 +13,7 @@
 
 This project focuses on detecting and localizing road signs within point clouds classified using the Semantikarto point cloud semantic segmentation model. The process involves extracting road sign point clouds, calculating geometric features, clustering, and finally estimating the positions of the detected road signs.
 
-![Untitled](README%20md%203f59e16a1f8949b98773ddeea2f5e8e5/Untitled.png)
+![inferred.png](doc/inferred.png)
 
 ### Steps
 
