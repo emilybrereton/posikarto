@@ -1,13 +1,8 @@
 
 # README.md
 
-## Project Summary: Road Sign Detection and Localization from Point Clouds
+## Posikarto: Road Sign Detection and Localization in Point Clouds
 
-```python
-# Calculate Jakteristic features
-# Add your code snippet here
-
-```
 
 ### Overview
 
@@ -23,11 +18,26 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The Semantikarto model has previously classified road signs in the point clouds using the RandLA-Net architecture.
 - Filtering is performed to extract road sign points by retaining points labeled as road signs and removing all other classes.
 
-<p float="left">
+<!-- <p float="left">
   <img src="doc/filtered_1.png" width="200" />
   <img src="doc/filtered_2.png" width="200" /> 
   <img src="doc/filtered_3.png" width="200" />
-</p>
+</p> -->
+
+<div align="center">
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/filtered_1.png" width="200" />
+    <p>Roadsign 1</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/filtered_2.png" width="200" />
+    <p>Roadsign 2</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/filtered_3.png" width="200" />
+    <p>Roadsign 3</p>
+  </div>
+</div>
 
 <!-- ![filtered_1.png](doc/filtered_1.png)
 
@@ -41,11 +51,26 @@ This project focuses on detecting and localizing road signs within point clouds 
 - Features like planarity, omnivariance, and others are computed to describe the geometric characteristics of the points.
 - A planarity threshold is set, and points below this threshold are removed to ensure high planarity.
 
-<p float="left">
+<!-- <p float="left">
   <img src="doc/jak_1.png" width="200" />
   <img src="doc/jak_2.png" width="200" /> 
   <img src="doc/jak_3.png" width="200" />
-</p>
+</p> -->
+
+<div align="center">
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/jak_1.png" width="200" />
+    <p>Roadsign 1</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/jak_2.png" width="200" />
+    <p>Roadsign 2</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/jak_13.png" width="200" />
+    <p>Roadsign 3</p>
+  </div>
+</div>
 
 <!-- ![jak_1.png](doc/jak_1.png)
 
@@ -59,11 +84,27 @@ This project focuses on detecting and localizing road signs within point clouds 
 - The feature columns are standardized, and DBSCAN clusters the points into groups based on their spatial density.
 - The cluster with the highest average planarity value is selected as it is likely to correspond to a road sign.
 
-<p float="left">
+<!-- <p float="left">
   <img src="doc/clustered_1.png" width="200" />
   <img src="doc/clustered_2.png" width="200" /> 
   <img src="doc/clustered_3.png" width="200" />
-</p>
+</p> -->
+
+<div align="center">
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/clustered_1.png" width="200" />
+    <p>Roadsign 1</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/clustered_1.png" width="200" />
+    <p>Roadsign 2</p>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <img src="doc/clustered_1.png" width="200" />
+    <p>Roadsign 3</p>
+  </div>
+</div>
+
 
 <!-- ![clustered_1.png](doc/clustered_1.png)
 
