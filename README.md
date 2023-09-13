@@ -58,17 +58,10 @@ This project focuses on detecting and localizing road signs within point clouds 
 </p> -->
 
 <div align="center">
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/jak_1.png" width="200" />
-    <p>Roadsign 1</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/jak_2.png" width="200" />
-    <p>Roadsign 2</p>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <img src="doc/jak_13.png" width="200" />
-    <p>Roadsign 3</p>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="doc/filtered_1.png" width="200" alt="Roadsign 1" style="margin: 10px;" />
+    <img src="doc/filtered_2.png" width="200" alt="Roadsign 2" style="margin: 10px;" />
+    <img src="doc/filtered_3.png" width="200" alt="Roadsign 3" style="margin: 10px;" />
   </div>
 </div>
 
